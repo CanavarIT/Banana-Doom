@@ -1,3 +1,5 @@
+<img width="3464" height="3464" alt="1000870619" src="https://github.com/user-attachments/assets/5af36cd2-f501-4c1f-aaf4-757e1c2c1759" />
+
 # 🍌 Banana Doom
 
 A native Android port of the original **DOOM** (id Software's `linuxdoom-1.10` source) with on-screen touch controls, gamepad and keyboard support, an OpenGL ES 2.0 video backend, a low-latency software sound mixer, and a built-in **OPL/FM music synthesizer** that plays the music straight from the WAD — no soundfonts, no extra files.
