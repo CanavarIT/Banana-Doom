@@ -34,3 +34,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Game assets
+*.wad
+*.WAD
