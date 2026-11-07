@@ -1,0 +1,2 @@
+Положите сюда doom1.wad (или doom.wad / doom2.wad / freedoom1.wad) ДО сборки — он упакуется в APK.
+Либо скопируйте WAD на устройство: /sdcard/Android/data/com.banana.doom/files/
